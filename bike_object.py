@@ -14,7 +14,7 @@ red_bike = Bike('red', 'Carbon Fiber')
 blue_bike = Bike('blue', 'Steel')
 
 print (red_bike.colour)
-print (red_bike.frame_material)
+# print (red_bike.frame_material)
 print (blue_bike.colour)
 print (blue_bike.frame_material)
 
